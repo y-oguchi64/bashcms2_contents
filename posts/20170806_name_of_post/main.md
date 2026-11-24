@@ -13,3 +13,4 @@ Contents add test4.
 Contents add test5.
 Contents add test6.
 Contents add test7.
+link_date add test.
